@@ -1,0 +1,6 @@
+[submodule "face_recognition"]
+	path = face_recognition
+	url = git@github.com:ageitgey/face_recognition.git
+[submodule "face-classification"]
+	path = face-classification
+	url = git@github.com:wondonghyeon/face-classification.git
