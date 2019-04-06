@@ -10,5 +10,5 @@
 7. Diversity Recognition - Understand more about the diversity of the human face.
 
 
-## Reference
+## References
 * Kairos: [https://www.kairos.com/features](https://www.kairos.com/features)
