@@ -2,7 +2,7 @@
 
 ## TODO
 1. Face Detection
-2. Face Identification - "Who is this?"
+2. Face Identification
 3. Age Detection - Detects age groups; child, young-adult, adult, or senior.
 4. Gender Detection - Detects gender of each face found; female or male.
 5. Facial Coordinates - Detects size; pitch, roll, yaw, and key landmarks.
