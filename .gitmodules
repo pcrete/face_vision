@@ -40,3 +40,6 @@
 [submodule "face-landmark-localization"]
 	path = face-landmark-localization
 	url = git@github.com:qiexing/face-landmark-localization.git
+[submodule "facenet"]
+	path = facenet
+	url = git@github.com:davidsandberg/facenet.git
