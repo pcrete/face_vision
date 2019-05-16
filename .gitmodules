@@ -1,0 +1,42 @@
+[submodule "Tiny_Faces_in_Tensorflow"]
+	path = Tiny_Faces_in_Tensorflow
+	url = git@github.com:cydonia999/Tiny_Faces_in_Tensorflow.git
+[submodule "face_recognition"]
+	path = face_recognition
+	url = git@github.com:ageitgey/face_recognition.git
+[submodule "FaceDetection-DSFD"]
+	path = FaceDetection-DSFD
+	url = git@github.com:TencentYoutuResearch/FaceDetection-DSFD.git
+[submodule "MTCNN-Tensorflow"]
+	path = MTCNN-Tensorflow
+	url = git@github.com:AITTSMD/MTCNN-Tensorflow.git
+[submodule "yoloface"]
+	path = yoloface
+	url = git@github.com:sthanhng/yoloface.git
+[submodule "face_classification"]
+	path = face_classification
+	url = git@github.com:oarriaga/face_classification.git
+[submodule "faced"]
+	path = faced
+	url = git@github.com:iitzco/faced.git
+[submodule "face-api.js"]
+	path = face-api.js
+	url = git@github.com:justadudewhohacks/face-api.js.git
+[submodule "insightface"]
+	path = insightface
+	url = git@github.com:deepinsight/insightface.git
+[submodule "SSR-Net"]
+	path = SSR-Net
+	url = git@github.com:shamangary/SSR-Net.git
+[submodule "deep-face-alignment"]
+	path = deep-face-alignment
+	url = git@github.com:deepinx/deep-face-alignment.git
+[submodule "libfaceid"]
+	path = libfaceid
+	url = git@github.com:richmondu/libfaceid.git
+[submodule "face-alignment"]
+	path = face-alignment
+	url = git@github.com:1adrianb/face-alignment.git
+[submodule "face-landmark-localization"]
+	path = face-landmark-localization
+	url = git@github.com:qiexing/face-landmark-localization.git
