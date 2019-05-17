@@ -9,6 +9,17 @@
 6. Face Grouping - Organize faces for easy searching, sorting, and matching.
 7. Diversity Recognition - Understand more about the diversity of the human face.
 
+## Submodules
+* Facenet
+* Face API JS
+* Faced
+* DSFD: Face Detection
+* Face Landmark
+* Face Alignment
+* Face Classification
+* MTCNN
+* SSR-Net
+* YOLO Face
 
 ## References
 * Kairos: [https://www.kairos.com/features](https://www.kairos.com/features)
