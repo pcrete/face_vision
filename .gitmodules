@@ -43,3 +43,6 @@
 [submodule "facenet"]
 	path = facenet
 	url = git@github.com:davidsandberg/facenet.git
+[submodule "mtcnn"]
+	path = mtcnn
+	url = git@github.com:ipazc/mtcnn.git
