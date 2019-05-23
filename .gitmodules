@@ -46,3 +46,6 @@
 [submodule "mtcnn"]
 	path = mtcnn
 	url = git@github.com:ipazc/mtcnn.git
+[submodule "tf-insightface"]
+	path = tf-insightface
+	url = git@github.com:AIInAi/tf-insightface.git
