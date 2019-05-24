@@ -34,9 +34,6 @@
 [submodule "libfaceid"]
 	path = libfaceid
 	url = git@github.com:richmondu/libfaceid.git
-[submodule "face-alignment"]
-	path = face-alignment
-	url = git@github.com:1adrianb/face-alignment.git
 [submodule "face-landmark-localization"]
 	path = face-landmark-localization
 	url = git@github.com:qiexing/face-landmark-localization.git
